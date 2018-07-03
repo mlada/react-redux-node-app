@@ -1,6 +1,6 @@
 # Application with static and dynamic pages using .md and .jsx
 
-##Технологии
+## Технологии
 
 * React/Redux для динамичных страниц, использующих информацию из бекенда, таких как   HomePage, Login, Registration, Client Cabinet.
 * Styled Components.
@@ -12,9 +12,9 @@
 
 ---
 
-##Файловая структура
+## Файловая структура
 
 
-##Запуск проекта
+## Запуск проекта
 
 
