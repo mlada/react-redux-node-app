@@ -2,7 +2,7 @@
 
 ## Технологии
 
-* React/Redux для динамичных страниц, использующих информацию из бекенда, таких как   HomePage, Login, Registration, Client Cabinet.
+* React/Redux для динамичных страниц, например HomePage, Login, Registration, Client Cabinet.
 * Styled Components.
 * React markdown or VuePress для статики, например Contacts.
 * Node Js server на express
